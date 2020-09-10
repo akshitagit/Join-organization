@@ -4,10 +4,10 @@
 
 ### Simple steps to join:
 
-> Raise a issue or solve any issue in open-source-DSA-code repo and raise a PR.
+> Fork this repo and solve any issue raised in DSA code repo and after adding the code raise a Pull Request.
 
-> Write issue title "Request for joining".
-
-> Add/tag your Github handle in description of issue.
+> Add/tag your Github handle too in description of PR.
 
 > We will add you automatically.
+
+> Star this Repo.
