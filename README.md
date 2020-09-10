@@ -4,7 +4,7 @@
 
 ### Simple steps to join:
 
-> Raise a issue or solve any issue and raise a PR.
+> Raise a issue or solve any issue in open-source-DSA-code repo and raise a PR.
 
 > Write issue title "Request for joining".
 
