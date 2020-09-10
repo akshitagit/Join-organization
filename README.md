@@ -8,6 +8,6 @@
 
 >Add/tag your Github handle too in description of PR.
 
->We will add you automatically.
+>We will add you automatically in this organization.
 
 >Star this Repo.
