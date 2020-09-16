@@ -4,11 +4,7 @@
 
 ### Simple steps to join:
 
->Fork this repo and solve any issue raised in DSA code repo and after adding the code raise a Pull Request.
-
->Add/tag your Github handle too in description of PR.
-
->We will add you automatically in this organization.
+>Add your names in contributing.md file in DSA CODE REPO.
 
 >Star this Repo.
 
