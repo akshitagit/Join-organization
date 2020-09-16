@@ -4,7 +4,7 @@
 
 ### Simple steps to join:
 
->Add your names in contributing.md file in DSA CODE REPO.
+>Add your names in contributing.md file in OPEN SOURCE DSA CODE REPO.
 
 >Star this Repo.
 
