@@ -1,6 +1,6 @@
 # Join-organization
 
-## Join our open source organization and contribute.
+## Join our organization and contribute to open source.
 
 ### Simple steps to join:
 
